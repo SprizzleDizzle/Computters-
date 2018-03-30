@@ -292,7 +292,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CamFollow.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\pauseMenu.cs" />
     <Compile Include="Assets\Power.cs" />
