@@ -292,9 +292,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainMenu.cs" />
-    <Compile Include="Assets\pauseMenu.cs" />
-    <Compile Include="Assets\Power.cs" />
+    <Compile Include="Assets\Scripts\ArrowCon.cs" />
+    <Compile Include="Assets\Scripts\BallControl.cs" />
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\pauseMenu.cs" />
+    <Compile Include="Assets\Scripts\Power.cs" />
+    <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
